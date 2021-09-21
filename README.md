@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bouchaala-Montreuil
 - 👀 I’m interested in Web-learning and sports 
 - 🌱 I’m currently learning Front-End developement
-- 💞️ I’m looking to collaborate on gaming projetcs and other stuff ;D
+- 💞️ I’m looking to collaborate on gaming projects and other stuff ;D
 - 📫 How to reach me : redabouchaala73@gmail.com
 
 <!---
